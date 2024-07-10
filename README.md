@@ -1,1 +1,2 @@
 # DBMS_NOTES
+[DBMS NOTE 1](./DBMS LECTURE 1- Intro to DBMS and SQL.html)
